@@ -1,5 +1,5 @@
 # PAMI_BASE
-Premières bases d'un logiciel pour un robot PAMI pour participer à la Coupe Robotique 2025
+Premières bases d'un logiciel pour un robot PAMI pour participer à la Coupe de France Robotique 2025
 
 Le réglement de la coupe de France de Robotique organisés par Planète Sciences 
 https://www.coupederobotique.fr/accueil/le-concours/reglement-2025/
