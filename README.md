@@ -21,4 +21,9 @@ Notre robot utilise :
 - un afficheur OLED 0.96" (SSD1306)
 - un PCF8575 extension 16IO qui interface 8 DIP Switch servant au paramétrage du logiciel
 
+La librairie PCF8575 dans le répertoire lib est une version corrigée de 
+https://github.com/xreef/PCF8575_library/blob/master/library.properties
+il y avait un bug dans digitalReadAll
+Plus nos choix de dénomination des pins et du type de retour de digitalreadAll, via uncomment de define
+
 Le logiciel est développé en C et C++ sous VSCode - PlatformIO - framework Arduino
