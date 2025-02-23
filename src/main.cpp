@@ -1,6 +1,6 @@
 /** PAMI version 3
  * @date 22/02/2025
- * @author PP
+ * @author PRP
  * 
  * Attention au changement 
  *    les angles sont pris en sens trigonométrique donc
