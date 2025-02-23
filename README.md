@@ -21,3 +21,4 @@ Notre robot utilise :
 - un afficheur OLED 0.96" (SSD1306)
 - un PCF8575 extension 16IO qui interface 8 DIP Switch servant au paramétrage du logiciel
 
+Le logiciel est développé en C et C++ sous VSCode - PlatformIO - framework Arduino
